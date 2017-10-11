@@ -1,0 +1,66 @@
+title: DEMO China's leaders DEMO
+subhead: In the Communist era
+
+[tabs]
+image: Mao.png
+props.name: 1
+props.title: Mao Zedong
+props.description: Chairman 1949 - 1976
+props.color: #E5826A
+
+image: Zhou.png
+props.name: 2
+props.title: Zhou Enlai
+props.description: Premier 1949 - 1976
+props.color: #E5826A
+
+image: Hua.png
+props.name: 3
+props.title: Hua Guofeng
+props.description: Chairman 1976 - 1981
+props.color: #E5826A
+
+image: Deng.png
+props.name: 4
+props.title: Deng Xiaoping
+props.description: Reformist era leader  1981 - 1997
+props.color: #E5826A
+
+
+image: Hu.png
+props.name: 5
+props.title: Hu Yaobang
+props.description: Chairman 1981 - 1982 General Secretary 1982 - 1987
+props.color: #E5826A
+
+image: Zhao.png
+props.name: 6
+props.title: Zhao Ziyang
+props.description: General Secretary 1987 - 1989
+props.color: #E5826A
+
+image: Jiang.png
+props.name: 7
+props.title: Jiang Zemin
+props.description: General Secretary 1989 - 2001
+props.color: #E5826A
+
+image: Hu_jt.png
+props.name: 8
+props.title: Hu Jintao
+props.description: General Secretary 2001 - 2012
+props.color: #E5826A
+
+image: Xi.png
+props.name: 9
+props.title: Xi Jinping
+props.description: General Secretary 2012 -
+props.color: #E5826A
+
+[]
+
+sources: Sources: China media / Britannica
+
+lastUpdate.key: Last update:
+lastUpdate.value: 10/10/2017 21:00:00
+lang: en
