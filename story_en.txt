@@ -20,7 +20,7 @@ props.title: Hua Guofeng
 props.description: Chairman
 props.color: #E5826A
 
-image: Deng-01.png
+image: Deng-01.jpg
 props.name: Deng
 props.title: Deng Xiaoping
 props.description: Reformist era leader
