@@ -2,59 +2,59 @@ title: DEMO China's leaders DEMO
 subhead: In the Communist era
 
 [tabs]
-image: Mao.jpg
-props.name: 1
+image: Mao-01.png
+props.name: Mao
 props.title: Mao Zedong
-props.description: Chairman 1949 - 1976
+props.description: Chairman
 props.color: #E5826A
 
-image: Zhou.jpg
-props.name: 2
+image: Zhou-01.png
+props.name: Zhou
 props.title: Zhou Enlai
-props.description: Premier 1949 - 1976
+props.description: Premier
 props.color: #E5826A
 
-image: Hua.jpg
-props.name: 3
+image: Hua-01.png
+props.name: Hua
 props.title: Hua Guofeng
-props.description: Chairman 1976 - 1981
+props.description: Chairman
 props.color: #E5826A
 
-image: Deng.jpg
-props.name: 4
+image: Deng-01.png
+props.name: Deng
 props.title: Deng Xiaoping
-props.description: Reformist era leader  1981 - 1997
+props.description: Reformist era leader
 props.color: #E5826A
 
 
-image: Hu.jpg
-props.name: 5
+image: Hu-01.png
+props.name: Hu
 props.title: Hu Yaobang
-props.description: Chairman 1981 - 1982 General Secretary 1982 - 1987
+props.description: Chairman / General Secretary
 props.color: #E5826A
 
-image: Zhao.jpg
-props.name: 6
+image: Zhao-01.png
+props.name: Zhao
 props.title: Zhao Ziyang
-props.description: General Secretary 1987 - 1989
+props.description: General Secretary
 props.color: #E5826A
 
-image: Jiang.jpg
-props.name: 7
+image: Jiang-01.png
+props.name: Jiang
 props.title: Jiang Zemin
-props.description: General Secretary 1989 - 2001
+props.description: General Secretary
 props.color: #E5826A
 
-image: Hu_jt.jpg
-props.name: 8
+image: Hu_jt-01.png
+props.name: Hu
 props.title: Hu Jintao
-props.description: General Secretary 2001 - 2012
+props.description: General Secretary
 props.color: #E5826A
 
-image: Xi.jpg
-props.name: 9
+image: Xi-01.png
+props.name:  Xi 
 props.title: Xi Jinping
-props.description: General Secretary 2012 -
+props.description: General Secretary
 props.color: #E5826A
 
 []
