@@ -17,7 +17,7 @@ props.color: #E5826A
 image: Hua-01.jpg
 props.name: Hua
 props.title: Hua Guofeng
-props.description: Chairman. Hand-picked by Mao to success him. Embraced the "two whatevers" policy, refering to an embrace of whatever Mao had adopted.
+props.description: Chairman. Hand-picked by Mao to succeed him. Embraced the "two whatevers" policy, refering to an embrace of whatever Mao had adopted.
 props.color: #E5826A
 
 image: Deng-01.jpg
@@ -30,7 +30,7 @@ props.color: #E5826A
 image: Hu-01.jpg
 props.name: Hu
 props.title: Hu Yaobang
-props.description: Chairman / General Secretary. Backed by Deng Xiaoping as a pragmatist who could help steer the country away from discredited Maoist ideology. Forced to resign in 1987 after weeks of student protests. Following his death in 1989 protesters gathered in Tiananmen square to demand his political rehabilitation.
+props.description: Chairman / General Secretary. Backed by Deng Xiaoping as a pragmatist who could help steer the country away from discredited Maoist ideology. Forced to resign in 1987 after weeks of student protests. Following his death in 1989, protesters gathered in Tiananmen square to demand his political rehabilitation.
 props.color: #E5826A
 
 image: Zhao-01.jpg
@@ -62,5 +62,5 @@ props.color: #E5826A
 sources: Sources: China media / Britannica
 
 lastUpdate.key: Last update:
-lastUpdate.value: 13/10/2017 16:00:00 (HK)
+lastUpdate.value: 10/13/2017 16:20:00 (HK)
 lang: en
