@@ -5,56 +5,56 @@ subhead: In the Communist era
 image: Mao-01.jpg
 props.name: Mao
 props.title: Mao Zedong
-props.description: Chairman
+props.description: Chairman. Revered leader and idealogue who announced the foundation of the People's Republic of China after more than 20 years of civil war. Launched the "Great Leap Forward" in the 50s, and the "Cultural Revolution" of the 1960s.
 props.color: #E5826A
 
 image: Zhou-01.jpg
 props.name: Zhou
 props.title: Zhou Enlai
-props.description: Premier
+props.description: Premier. Founder member and popular leader seen as a crucial negotiator in China's foreign relations. Credited for fixing the historic 1972 meeting in Beijing between Richard Nixon and Mao.
 props.color: #E5826A
 
 image: Hua-01.jpg
 props.name: Hua
 props.title: Hua Guofeng
-props.description: Chairman
+props.description: Chairman. Hand-picked by Mao to success him. Embraced the "two whatevers" policy, refering to an embrace of whatever Mao had adopted.
 props.color: #E5826A
 
 image: Deng-01.jpg
 props.name: Deng
 props.title: Deng Xiaoping
-props.description: Reformist era leader
+props.description: Reformist era leader. Famously said: “it doesn’t matter if a cat is black or white, as long as it catches mice.” Launched and pushed forward China's far-reaching economic reforms through the 1980s. Remained the most powerful leader in 1989 when troops opened fire on demonstrators in Tiananmen square.
 props.color: #E5826A
 
 
 image: Hu-01.jpg
 props.name: Hu
 props.title: Hu Yaobang
-props.description: Chairman / General Secretary
+props.description: Chairman / General Secretary. Backed by Deng Xiaoping as a pragmatist who could help steer the country away from discredited Maoist ideology. Forced to resign in 1987 after weeks of student protests. Following his death in 1989 protesters gathered in Tiananmen square to demand his political rehabilitation.
 props.color: #E5826A
 
 image: Zhao-01.jpg
 props.name: Zhao
 props.title: Zhao Ziyang
-props.description: General Secretary
+props.description: General Secretary. Pragmatic reformist who favoured loosening government controls. Advocated a moderate response to protesters in 1989 and was dismissed from his post after after refusing to support the June 4th crackdown. Remained under house arrest until his death.
 props.color: #E5826A
 
 image: Jiang-01.jpg
 props.name: Jiang
 props.title: Jiang Zemin
-props.description: General Secretary
+props.description: General Secretary. Steered China into membership of the World Trade Organization, oversaw Hong Kong's handover and saw Beijing secure the 2008 Olympics. Continued Deng's push for economic liberalisation, but criticised by rights advocates for supressing political dissent.
 props.color: #E5826A
 
 image: Hu_jt-01.jpg
 props.name: Hu
 props.title: Hu Jintao
-props.description: General Secretary
+props.description: General Secretary. Maintained an unbending political system while China overtook Japan as the world's second largest economy, Beijing hosted the Olympic Games where Chinese athletes won the most gold medals, and the nation became the third country to send a man into space.
 props.color: #E5826A
 
 image: Xi-01.jpg
 props.name:  Xi 
 props.title: Xi Jinping
-props.description: General Secretary
+props.description: General Secretary. Launched a much-publicised drive against corruption after coming to power. Seen as a "charismatic" strongman while overseeing a tightening of press restrictions and a crackdown on human rights defenders.
 props.color: #E5826A
 
 []

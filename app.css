@@ -47,7 +47,7 @@ p {
   margin: 1em 0;
 }
 main {
-  
+  height: 600px;
 }
 main img {
   width: 100%;
@@ -56,13 +56,16 @@ main img {
 @media screen and (min-width: 450px) {
   main img {
     float: right;
-    width: 45%;
+    width: 55%;
   }
   h3 {
     padding-top: 38px;
   }
   p {
-    width: 55%;
+    width: 45%;
+  }
+  main {
+	  height: auto;
   }
 }
 
