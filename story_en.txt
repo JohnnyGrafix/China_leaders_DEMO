@@ -1,4 +1,4 @@
-title: DEMO China's leaders DEMO
+title: China's leaders
 subhead: In the Communist era
 
 [tabs]
