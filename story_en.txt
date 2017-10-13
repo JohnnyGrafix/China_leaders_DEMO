@@ -62,5 +62,5 @@ props.color: #E5826A
 sources: Sources: China media / Britannica
 
 lastUpdate.key: Last update:
-lastUpdate.value: 10/10/2017 21:00:00
+lastUpdate.value: 13/10/2017 16:00:00 (HK)
 lang: en
